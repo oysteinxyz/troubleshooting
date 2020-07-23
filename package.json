@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@gumlet/gif-resize": "^1.1.1"
+  }
+}
